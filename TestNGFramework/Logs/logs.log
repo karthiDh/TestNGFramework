@@ -1,0 +1,62 @@
+[INFO ] 2022-10-18 14:40:26.892 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ folder for the session run
+[INFO ] 2022-10-18 14:40:26.899 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ does not exists
+[INFO ] 2022-10-18 14:40:26.899 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ folder for the session run
+[INFO ] 2022-10-18 14:40:26.899 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ does not exists
+[INFO ] 2022-10-18 14:40:27.159 [main] LoggerLoad - I am in onStart method Default test
+[INFO ] 2022-10-18 14:41:55.032 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ folder for the session run
+[INFO ] 2022-10-18 14:41:55.039 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ does not exists
+[INFO ] 2022-10-18 14:41:55.039 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ folder for the session run
+[INFO ] 2022-10-18 14:41:55.039 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ does not exists
+[INFO ] 2022-10-18 14:41:55.290 [main] LoggerLoad - I am in onStart method Default test
+[INFO ] 2022-10-18 14:43:10.082 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ folder for the session run
+[INFO ] 2022-10-18 14:43:10.090 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ does not exists
+[INFO ] 2022-10-18 14:43:10.090 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ folder for the session run
+[INFO ] 2022-10-18 14:43:10.090 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ does not exists
+[INFO ] 2022-10-18 14:43:10.363 [main] LoggerLoad - I am in onStart method Default test
+[INFO ] 2022-10-18 14:43:30.724 [main] LoggerLoad - verify_Floating_Bubble_Component test is starting.
+[INFO ] 2022-10-18 14:43:30.734 [main] LoggerLoad - verify_Floating_Bubble_Component test is skipped.
+[INFO ] 2022-10-18 14:43:30.755 [main] LoggerLoad - Default test
+[INFO ] 2022-10-18 14:44:01.759 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ folder for the session run
+[INFO ] 2022-10-18 14:44:01.771 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ does not exists
+[INFO ] 2022-10-18 14:44:01.771 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ folder for the session run
+[INFO ] 2022-10-18 14:44:01.802 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ exists and is deleted
+[INFO ] 2022-10-18 14:44:02.051 [main] LoggerLoad - I am in onStart method Default test
+[INFO ] 2022-10-18 14:45:20.937 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ folder for the session run
+[INFO ] 2022-10-18 14:45:20.944 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ does not exists
+[INFO ] 2022-10-18 14:45:20.944 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ folder for the session run
+[INFO ] 2022-10-18 14:45:20.944 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ does not exists
+[INFO ] 2022-10-18 14:45:21.175 [main] LoggerLoad - I am in onStart method Default test
+[INFO ] 2022-10-18 14:46:29.739 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ folder for the session run
+[INFO ] 2022-10-18 14:46:29.749 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ does not exists
+[INFO ] 2022-10-18 14:46:29.749 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ folder for the session run
+[INFO ] 2022-10-18 14:46:29.749 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ does not exists
+[INFO ] 2022-10-18 14:46:29.985 [main] LoggerLoad - I am in onStart method Default test
+[INFO ] 2022-10-18 14:46:56.789 [main] LoggerLoad - verify_Floating_Bubble_Component test is starting.
+[INFO ] 2022-10-18 14:46:56.798 [main] LoggerLoad - verify_Floating_Bubble_Component test is skipped.
+[INFO ] 2022-10-18 14:46:56.816 [main] LoggerLoad - Default test
+[INFO ] 2022-10-18 14:47:36.679 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ folder for the session run
+[INFO ] 2022-10-18 14:47:36.695 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ does not exists
+[INFO ] 2022-10-18 14:47:36.696 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ folder for the session run
+[INFO ] 2022-10-18 14:47:36.757 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ exists and is deleted
+[INFO ] 2022-10-18 14:47:37.203 [main] LoggerLoad - I am in onStart method Default test
+[INFO ] 2022-10-18 14:48:58.550 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ folder for the session run
+[INFO ] 2022-10-18 14:48:58.558 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ does not exists
+[INFO ] 2022-10-18 14:48:58.559 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ folder for the session run
+[INFO ] 2022-10-18 14:48:58.559 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ does not exists
+[INFO ] 2022-10-18 14:48:58.797 [main] LoggerLoad - I am in onStart method Default test
+[INFO ] 2022-10-18 14:51:14.339 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ folder for the session run
+[INFO ] 2022-10-18 14:51:14.366 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ does not exists
+[INFO ] 2022-10-18 14:51:14.367 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ folder for the session run
+[INFO ] 2022-10-18 14:51:14.367 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ does not exists
+[INFO ] 2022-10-18 14:51:14.717 [main] LoggerLoad - I am in onStart method Default test
+[INFO ] 2022-10-18 14:52:31.991 [main] LoggerLoad - verify_Floating_Bubble_Component test is starting.
+[INFO ] 2022-10-18 14:52:31.995 [main] LoggerLoad - verify_Floating_Bubble_Component test is skipped.
+[INFO ] 2022-10-18 14:52:32.008 [main] LoggerLoad - Default test
+[INFO ] 2022-10-18 14:54:20.842 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ folder for the session run
+[INFO ] 2022-10-18 14:54:20.850 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/Results/Screenshots/ does not exists
+[INFO ] 2022-10-18 14:54:20.850 [main] LoggerLoad - Checking existance of C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ folder for the session run
+[INFO ] 2022-10-18 14:54:20.920 [main] LoggerLoad - Folder C:\Users\M1068474\Desktop\OralB\eCaas-SeleniumScripts\OralBAutomation/allure-results/ exists and is deleted
+[INFO ] 2022-10-18 14:54:21.190 [main] LoggerLoad - I am in onStart method Default test
+[INFO ] 2022-10-18 14:54:53.996 [main] LoggerLoad - verify_Floating_Bubble_Component test is starting.
+[INFO ] 2022-10-18 14:54:54.115 [main] LoggerLoad - TEST_EXECUTION_START
+[INFO ] 2022-10-18 14:54:54.116 [main] LoggerLoad - ******verify_Floating_Bubble_Component******

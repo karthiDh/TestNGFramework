@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="QARegressionMacSafari" parallel="classes" thread-count="4" group-by-instances="true">
+	<test name="MacSafari">
+		<parameter name="driverInstance" value="Mac" />
+		<parameter name="udid" value="" />
+		<classes>
+			<class name="oral.scripts.GuestUserCheckOutTest" />
+		</classes>
+	</test>
+</suite>
